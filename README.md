@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KagisoModika
 - 👀 I’m interested in solving problems and creating innovative solutions for business and personal use.
-- 🌱 I’m currently learning AWS and getting back to Java Dev.
-- 💞️ I’m looking to utilize my skills in either a full-time or freelance position.
+- 🌱 I’m currently learning React and getting back to Java Dev.
+- 💞️ I’m looking to utilize my skills in either a full-time or freelance position. My goal is to become a full stack developer.
 - 📫 Get in touch with me on email kagisomodika@yahoo.com
 
 <!---
