@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development. I enjoy solving problems and creating innovative solutions for business and personal use.
 - 🌱 I’m currently learning React and taking on random challenges. I have many years of experience building WordPress websites.
 - 💞️ I’m utilizing my skills in an international company that solves day-to-day problems for businesses. My goal is to become a full stack developer.
-- 📫 Get in touch with me on email kagisomodika@yahoo.com
+- 📫 Get in touch with me on LinkedIn.
 
 <!----
 KagisoModika/KagisoModika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
